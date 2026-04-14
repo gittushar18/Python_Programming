@@ -24,7 +24,7 @@ BMI_Project/
 
 ## ⚙️ Installation & Setup
 1.Clone the repository
-git clone https://github.com/gittushar18/BMI%20Calculator.git
+git clone [https://github.com/gittushar18/BMI%20Calculator.git](https://github.com/gittushar18/Python_Programming/tree/main/BMI%20Calculator)
 cd bmi-calculator
 2.Install required libraries
 pip install matplotlib
