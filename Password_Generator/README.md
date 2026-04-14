@@ -23,20 +23,23 @@ Tkinter – GUI development
 random & string – Password generation
 pyperclip – Clipboard functionality
 
+
 ## 📂 Project Structure
 Password_Generator/
 │── password.py          # Main application file
 │── README.md        # Documentation
 
+
 ## ⚙️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your_username/password-generator.git
+git clone [https://github.com/your_username/password-generator.git](https://github.com/gittushar18/Python_Programming/tree/main/Password_Generator)
 cd password-generator
 2. Install required library
 pip install pyperclip
 (Tkinter comes pre-installed with Python)
 3. Run the application
 python main.py
+
 
 ## 📊 How It Works
 Enter desired password length
@@ -45,16 +48,19 @@ Click “Generate Password”
 Generated password appears in the text box
 Click “Copy to Clipboard” to use it anywhere
 
+
 ## 🔐 Security Features
 Ensures at least one character from each selected category
 Randomized password generation
 Shuffled output to avoid predictable patterns
+
 
 ## 🎯 Example Output
 A9k@P2xLq7!
 ⚠️ Validation Rules
 Password length must be at least 4
 At least one character type must be selected
+
 
 ## 🎯 Future Enhancements
 🔹 Password strength indicator
