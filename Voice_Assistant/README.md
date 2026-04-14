@@ -61,14 +61,14 @@ python voice.py
 
 ---
 
-##⚠️ Important Notes
+## ⚠️ Important Notes
 Ensure your microphone is properly connected and working 🎤
 Internet connection is required for speech recognition and Wikipedia search 🌐
 If you face issues installing pyaudio, install it separately depending on your system.
 
 ---
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 Add Graphical User Interface (GUI)
 Integrate AI-based conversational responses
 Add weather and news updates
@@ -77,26 +77,26 @@ Add custom user commands.
 
 ---
 
-##🧪 Testing
+## 🧪 Testing
 
 The assistant has been tested with basic voice commands and performs reliably under normal conditions. Performance may vary depending on microphone quality and background noise.
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork the repository and submit a pull request to improve this project.
 
 ---
 
-###📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-##📌 Conclusion
+## 📌 Conclusion
 
 This project serves as a beginner-friendly implementation of a voice assistant using Python. It highlights how speech recognition and automation can be combined to create interactive applications.
 
