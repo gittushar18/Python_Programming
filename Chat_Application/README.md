@@ -23,14 +23,21 @@ Tkinter – GUI development
 JSON – User data storage
 Hashlib (SHA-256) – Password security
 File Handling – Chat history storage
-📂 Project Structure
+
+
+## 📂 Project Structure
 Chat_App/
 
-│── main.py  # Main application file
+│── main.py                  # Main application file
+
 │── users.json               # Stores user credentials
+
 │── General_history.txt      # Chat history (General room)
+
 │── Sports_history.txt       # Chat history (Sports room)
+
 │── Tech_history.txt         # Chat history (Tech room)
+
 │── README.md                # Documentation
 
 
@@ -75,10 +82,15 @@ No encryption for stored messages
 
 ## 🎯 Future Enhancements
 🔹 Real-time chat using sockets 🌐
+
 🔹 Online multi-user support
+
 🔹 Message timestamps
+
 🔹 User avatars/profile
+
 🔹 End-to-end encryption 🔐
+
 🔹 Better UI (modern chat interface)
 
 
