@@ -26,6 +26,8 @@ BMI_Project/
 1.Clone the repository
 git clone [https://github.com/gittushar18/BMI%20Calculator.git](https://github.com/gittushar18/Python_Programming/tree/main/BMI%20Calculator)
 cd bmi-calculator
+
+
 2.Install required libraries
 pip install matplotlib
 (Tkinter and SQLite come pre-installed with Python)
@@ -35,13 +37,17 @@ python main.py
 ## 📊 How It Works
 Enter: Username, Weight (kg), Height (cm)
 Click “Calculate BMI & Save”
-The system will: Calculate BMI,Show category, Save data to database, Display history, Plot BMI trend graph
+The system will: Calculate BMI, Show category, Save data to database, Display history, Plot BMI trend graph
 
 ## 📈 BMI Categories
 BMI Range	Category
+
 < 18.5	Underweight
+
 18.5 – 24.9	Normal weight
+
 25 – 29.9	Overweight
+
 ≥ 30	Obese
 
 ## 🎯 Future Enhancements
