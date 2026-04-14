@@ -31,6 +31,7 @@ cd bmi-calculator
 2.Install required libraries
 pip install matplotlib
 (Tkinter and SQLite come pre-installed with Python)
+
 3.Run the application
 python main.py
 
