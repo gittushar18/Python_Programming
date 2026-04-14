@@ -68,6 +68,8 @@ BMI Range	Category
 This project demonstrates how to integrate GUI, database management, and data visualization in Python. It is useful for beginners to understand real-world application development and provides a practical tool for tracking personal health metrics.
 
 👤 Author
+## 👤 Author
 
-Your Name
-GitHub: gittushar18
+**Tushar Sahu** 🚀  
+Python Developer | ML Enthusiast | Tech Explorer  
+🔗 GitHub: https://github.com/gittushar18
