@@ -29,7 +29,7 @@ Weather_App/
 
 ## ⚙️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your_username/weather-app.git
+git clone [https://github.com/your_username/weather-app.git](https://github.com/gittushar18/Python_Programming/tree/main/Basic_Weather_App)
 cd weather-app
 2. Install required libraries
 pip install requests pillow
@@ -47,6 +47,7 @@ python main.py
 Enter a city name
 Click “Get Weather”
 App fetches data from API
+
 Displays:
 🌡️ Temperature
 🌤️ Weather condition
@@ -63,8 +64,11 @@ https://api.openweathermap.org/data/2.5/weather
 
 ## ⚠️ Error Handling
 ❌ Empty input → Warning message
+
 ❌ Invalid city → Error message
+
 ❌ API failure → Graceful handling
+
 
 
 ## 🎯 Future Enhancements
@@ -79,6 +83,6 @@ https://api.openweathermap.org/data/2.5/weather
 🔹 Background changes based on weather
 
 
-##🧩 Conclusion
+## 🧩 Conclusion
 
 This project demonstrates how to integrate APIs with GUI applications in Python. It helps understand real-time data fetching, JSON parsing, and user interface design.
