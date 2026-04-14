@@ -53,10 +53,15 @@ BMI Range	Category
 
 ## 🎯 Future Enhancements
 🔹 Add login system (multi-user support)
+
 🔹 Export data to CSV/Excel
+
 🔹 Add diet & fitness suggestions
+
 🔹 Improve UI design with themes
+
 🔹 Add real-time validation
+
 
 ## 🧩 Conclusion
 
