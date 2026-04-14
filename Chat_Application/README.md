@@ -43,7 +43,7 @@ Chat_App/
 
 ## ⚙️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your_username/chat-application.git
+git clone [https://github.com/your_username/chat-application.git](https://github.com/gittushar18/Python_Programming/tree/main/Chat_Application)
 cd chat-application
 2. Run the application
 python main.py
