@@ -51,7 +51,6 @@ python voice.py
 
 ---
 
-
 ## 🗣️ Example Commands
 "Hello"
 "What is the time?"
@@ -59,13 +58,15 @@ python voice.py
 "Search Python programming"
 "Wikipedia Artificial Intelligence"
 "Exit"
----
 
+---
 
 ##⚠️ Important Notes
 Ensure your microphone is properly connected and working 🎤
 Internet connection is required for speech recognition and Wikipedia search 🌐
 If you face issues installing pyaudio, install it separately depending on your system.
+
+---
 
 ##🔮 Future Enhancements
 Add Graphical User Interface (GUI)
