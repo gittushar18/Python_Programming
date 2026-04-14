@@ -26,7 +26,9 @@ pyperclip – Clipboard functionality
 
 ## 📂 Project Structure
 Password_Generator/
+
 │── password.py          # Main application file
+
 │── README.md        # Documentation
 
 
