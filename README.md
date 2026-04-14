@@ -5,7 +5,7 @@ This repository contains a collection of Python-based GUI applications demonstra
 
 ## 📌 Projects Included
 
-1️⃣ 🎤 Voice Assistant
+### 1️⃣ 🎤 Voice Assistant
 
 A basic voice-controlled assistant that can perform tasks like telling time, searching Wikipedia, and browsing the web.
 
@@ -17,7 +17,7 @@ Time & date info
 Web & Wikipedia search
 Voice commands (exit, stop)
 
-2️⃣ ⚖️ BMI Calculator with History
+### 2️⃣ ⚖️ BMI Calculator with History
 
 A GUI app to calculate BMI and track user health over time.
 
@@ -29,7 +29,7 @@ SQLite database storage
 History table 📊
 Trend graph visualization 📈
 
-3️⃣ 🔐 Advanced Password Generator
+### 3️⃣ 🔐 Advanced Password Generator
 
 A customizable password generator for creating secure passwords.
 
@@ -40,7 +40,7 @@ Uppercase, lowercase, numbers, symbols
 Strong password rules
 Clipboard copy 📋
 
-4️⃣ 🌦️ Weather App
+### 4️⃣ 🌦️ Weather App
 
 A real-time weather application using an external API.
 
@@ -51,7 +51,7 @@ Temperature, humidity, wind speed
 Weather icons 🌤️
 API integration
 
-5️⃣ 💬 Chat Application with Authentication
+### 5️⃣ 💬 Chat Application with Authentication
 
 A GUI chat system with login/registration and chat rooms.
 
@@ -127,5 +127,7 @@ This collection showcases practical Python skills by combining multiple domains 
 ## 👤 Author
 
 Tushar Sahu 🚀
+
 Python Developer | ML Enthusiast
+
 🔗 GitHub: https://github.com/gittushar18
