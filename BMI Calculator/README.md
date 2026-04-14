@@ -70,4 +70,4 @@ This project demonstrates how to integrate GUI, database management, and data vi
 👤 Author
 
 Your Name
-GitHub: your_username
+GitHub: gittushar18
