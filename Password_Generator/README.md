@@ -1,4 +1,4 @@
-### 🔐 README.md – Advanced Password Generator
+# 🔐 README.md – Advanced Password Generator
 ## 🧠 Project Overview
 
 This project is a GUI-based Advanced Password Generator built using Python. It allows users to generate secure and customizable passwords with different character options and copy them directly to the clipboard.
@@ -57,6 +57,7 @@ Shuffled output to avoid predictable patterns
 
 ## 🎯 Example Output
 A9k@P2xLq7!
+
 ⚠️ Validation Rules
 Password length must be at least 4
 At least one character type must be selected
